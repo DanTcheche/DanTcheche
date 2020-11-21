@@ -1,9 +1,11 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/MartinHeinz/Cheiras/Cheiras/readme_header.png "Header")](https://some-url.dev/)
+
+
+# Hello, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Dan, and I'm from Argentina. Currenly I'm a Full Stack developer at eyelet. Working in Django and Vue.js mainly.
 
 <!--
 **Cheiras/Cheiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 Here are some ideas to get you started:
 
