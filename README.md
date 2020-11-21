@@ -4,6 +4,10 @@ My name is Dan, and I'm from Argentina. Currenly I'm a Full Stack developer at e
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheiras)](https://github.com/anuraghazra/github-readme-stats)
 
+## Technologies and tools:
+
+![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 <!--
 **Cheiras/Cheiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
