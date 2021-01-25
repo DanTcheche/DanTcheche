@@ -13,7 +13,7 @@ My name is Dan, and I'm from Argentina. Currenly I'm a Full Stack developer at e
 ![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheiras)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanTcheche)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌱 I’m currently learning
 ![](https://img.shields.io/badge/Code-NodeJS-nformational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -21,7 +21,7 @@ My name is Dan, and I'm from Argentina. Currenly I'm a Full Stack developer at e
 ![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!--
-**Cheiras/Cheiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DanTcheche/DanTcheche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
