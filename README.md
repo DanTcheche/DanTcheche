@@ -17,6 +17,7 @@ My name is Dan, and I'm from Argentina. Currenly I'm a Full Stack developer at e
 
 ## 🔭 I’m currently working on:
   [My own media recommendation project](https://sitraved2-fe.herokuapp.com/)
+  
   [eyelet](https://eyelet.com/)
 
 ## 🌱 I’m currently learning
