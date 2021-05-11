@@ -15,6 +15,10 @@ My name is Dan, and I'm from Argentina. Currenly I'm a Full Stack developer at e
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanTcheche)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🔭 I’m currently working on:
+  [My own media recommendation project](https://sitraved2-fe.herokuapp.com/)
+  eyelet(https://eyelet.com/)
+
 ## 🌱 I’m currently learning
 ![](https://img.shields.io/badge/Code-NodeJS-nformational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -25,7 +29,7 @@ My name is Dan, and I'm from Argentina. Currenly I'm a Full Stack developer at e
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
