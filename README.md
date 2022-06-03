@@ -1,5 +1,5 @@
 
-# Hello, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 My name is Dan, and I'm from Argentina. Currenly I'm a Full Stack developer at Tiendanube. Working in Nestjs and Vue.js mainly.
 
 ## Technologies and tools:
