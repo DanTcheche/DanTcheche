@@ -17,7 +17,7 @@ My name is Dan, and I'm from Argentina. Currenly I'm a Lead Developer at Light-i
 
 ## 🔭 I’ve worked on:
   
-  [eyelet](https://eyelet.com/)
+  [eyelet](https://eyelet.org/)
   
   [Tiendanube](https://tiendanube.com/)
   
