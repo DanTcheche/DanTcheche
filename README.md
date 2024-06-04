@@ -1,6 +1,6 @@
 
 # Hello, there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-My name is Dan, and I'm from Argentina. Currenly I'm a Lead Developer at Light-it. Working in Django and Vue.js mainly.
+My name is Dan, and I'm from Argentina. Currenly I'm a Lead Developer at Light-it. Working in FastAPI and React mainly.
 
 ## Technologies and tools:
 
